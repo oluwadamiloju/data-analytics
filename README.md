@@ -1,1 +1,1 @@
-"# intro to data analytics" 
+"# intro to data science and machine learning with python" 
